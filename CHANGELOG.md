@@ -8,4 +8,4 @@ As this project is still in active development, it does not yet strictly adhere 
 
 ## [0.1.0] - 2026-04-08
 ### Added
-- Initial pages for SQLite interface
+- Initial scripts and web pages for SQLite interface
